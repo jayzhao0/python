@@ -1,4 +1,4 @@
 
 Scrapy不支持Python 3.x：pip3 uninstall scrapy;hash -r    清理缓存;pip install scrapy --force-reinstall
 
-安装Anaconda之后scrapy失效,卸载Anaconda;
+安装Anaconda之后scrapy失效,卸载Anaconda; 由twisted导致的问题，需要下载上一个版本的twisted，不能用最新版。
