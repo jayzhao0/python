@@ -1,1 +1,2 @@
 
+Scrapy不支持Python 3.x：pip3 uninstall scrapy;hash -r    清理缓存;pip install scrapy --force-reinstall
